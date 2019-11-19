@@ -9,5 +9,6 @@ click.addEventListener("click",function(){
 
   alert("Joanna Liu:" + input.value);
 });
+}
 
 window.addEventListener('load', init);
